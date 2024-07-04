@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Tdtless10c.Models.TdtCategory>
+
+@{
+    ViewBag.Title = "Danh muc san pham";
+    Layout = "~/Views/Shared/_TdtLayout.cshtml";
+}
+
+<h2>Danh muc san pham</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<a href="/TdtCategories/Create" class="btn bnt-primary my-3">Them moi</a>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtCateName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtStatus)
+        </th>
+        <th>Chuc nang</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtCateName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtStatus)
+            @if (item.TdtStatus == true)
+            {
+              <span style="color:green">Hoat dong</span>
+            }
+            else
+            {
+            <span style="color:red">Khong hoat dong</span>
+            }
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.TdtID }) |
+            @Html.ActionLink("Details", "Details", new { id = item.TdtID }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.TdtID })
+        </td>
+    </tr>
+}
+
+</table>

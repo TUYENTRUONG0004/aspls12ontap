@@ -1,0 +1,59 @@
+﻿@model Tdtless10c.Models.TdtProduct
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_TdtLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TdtProduct</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtProName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtProName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtQty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtQty)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtCateId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtCateId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtActive)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TdtId2210900134 }) |
+    @Html.ActionLink("Back to List", "TdtIndex")
+</p>

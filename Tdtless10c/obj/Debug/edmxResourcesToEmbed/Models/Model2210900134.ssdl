@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tdtK22cnt3lession10cModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TdtCategory">
+    <Key>
+      <PropertyRef Name="TdtID" />
+    </Key>
+    <Property Name="TdtID" Type="int" Nullable="false" />
+    <Property Name="TdtCateName" Type="nvarchar" MaxLength="50" />
+    <Property Name="TdtStatus" Type="bit" />
+  </EntityType>
+  <EntityType Name="TdtProduct">
+    <Key>
+      <PropertyRef Name="TdtId2210900134" />
+    </Key>
+    <Property Name="TdtId2210900134" Type="int" Nullable="false" />
+    <Property Name="TdtProName" Type="nvarchar" MaxLength="50" />
+    <Property Name="TdtQty" Type="int" />
+    <Property Name="TdtPrice" Type="float" />
+    <Property Name="TdtCateId" Type="int" />
+    <Property Name="TdtActive" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="tdtK22cnt3lession10cModelStoreContainer">
+    <EntitySet Name="TdtCategory" EntityType="Self.TdtCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TdtProduct" EntityType="Self.TdtProduct" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

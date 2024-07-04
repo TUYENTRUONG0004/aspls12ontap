@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Tdtless10c.Models.TdtProduct>
+
+@{
+    ViewBag.Title = "danh sach san pham";
+    Layout = "~/Views/Shared/_TdtLayout.cshtml";
+}
+
+<h2>danh sach san pham</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtId2210900134)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtProName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtQty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtCateId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TdtActive)
+        </th>
+        <th>Chuc nang</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtId2210900134)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtProName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtQty)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TdtCateId)
+        </td>
+        <td>
+            @if (item.TdtActive == true)
+            {
+                <span style="color:green">Hoat dong</span>
+            }
+            else
+            {
+                <span style="color:red">Khong hoat dong</span>
+            }
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.TdtId2210900134 }) |
+            @Html.ActionLink("Details", "Details", new { id = item.TdtId2210900134 }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.TdtId2210900134 })
+        </td>
+    </tr>
+}
+
+</table>

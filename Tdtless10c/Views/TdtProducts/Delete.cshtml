@@ -1,0 +1,65 @@
+﻿@model Tdtless10c.Models.TdtProduct
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_TdtLayout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>TdtProduct</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtProName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtProName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtQty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtQty)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtCateId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtCateId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TdtActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TdtActive)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "TdtIndex")
+        </div>
+    }
+</div>

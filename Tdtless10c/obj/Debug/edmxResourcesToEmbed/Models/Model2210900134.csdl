@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tdtK22cnt3lession10cModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TdtCategory">
+    <Key>
+      <PropertyRef Name="TdtID" />
+    </Key>
+    <Property Name="TdtID" Type="Int32" Nullable="false" />
+    <Property Name="TdtCateName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TdtStatus" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="TdtProduct">
+    <Key>
+      <PropertyRef Name="TdtId2210900134" />
+    </Key>
+    <Property Name="TdtId2210900134" Type="Int32" Nullable="false" />
+    <Property Name="TdtProName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TdtQty" Type="Int32" />
+    <Property Name="TdtPrice" Type="Double" />
+    <Property Name="TdtCateId" Type="Int32" />
+    <Property Name="TdtActive" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="tdtK22cnt3lession10cEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TdtCategory" EntityType="Self.TdtCategory" />
+    <EntitySet Name="TdtProduct" EntityType="Self.TdtProduct" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\tdtproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\tdtproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\models\\tdtcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\models\\tdtcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\controllers\\tdtproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\controllers\\tdtproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\tdtproducts\\tdtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\tdtproducts\\tdtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\controllers\\tdtcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\controllers\\tdtcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\tdthome\\tdtcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\tdthome\\tdtcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\tdthome\\tdtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\tdthome\\tdtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\tdtcategories\\tdtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\tdtcategories\\tdtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\tdtproducts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\tdtproducts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\tdtproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\tdtproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\views\\tdtproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\views\\tdtproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\models\\model2210900134.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\models\\model2210900134.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|c:\\users\\computer\\desktop\\06\\tdtless10c\\tdtless10c\\controllers\\tdthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF44B89-0675-4EB6-8FC7-F85B4E80D804}|Tdtless10c\\Tdtless10c.csproj|solutionrelative:tdtless10c\\controllers\\tdthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\Web.config",
+              "RelativeToolTip": "Tdtless10c\\Views\\Web.config",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-04T05:12:55.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\TdtProducts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\Details.cshtml",
+              "RelativeToolTip": "Tdtless10c\\Views\\TdtProducts\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T05:01:30.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\TdtProducts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\Delete.cshtml",
+              "RelativeToolTip": "Tdtless10c\\Views\\TdtProducts\\Delete.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T05:01:22.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\TdtProducts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\Create.cshtml",
+              "RelativeToolTip": "Tdtless10c\\Views\\TdtProducts\\Create.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T05:01:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\TdtProducts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\Edit.cshtml",
+              "RelativeToolTip": "Tdtless10c\\Views\\TdtProducts\\Edit.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T05:00:41.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TdtIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\TdtIndex.cshtml",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\TdtProducts\\TdtIndex.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtProducts\\TdtIndex.cshtml",
+              "RelativeToolTip": "Tdtless10c\\Views\\TdtProducts\\TdtIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:51:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TdtProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Controllers\\TdtProductsController.cs",
+              "RelativeDocumentMoniker": "Tdtless10c\\Controllers\\TdtProductsController.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Controllers\\TdtProductsController.cs",
+              "RelativeToolTip": "Tdtless10c\\Controllers\\TdtProductsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAiwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:51:21.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TdtCategory.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Models\\TdtCategory.cs",
+              "RelativeDocumentMoniker": "Tdtless10c\\Models\\TdtCategory.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Models\\TdtCategory.cs",
+              "RelativeToolTip": "Tdtless10c\\Models\\TdtCategory.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:39:05.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TdtIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtCategories\\TdtIndex.cshtml",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\TdtCategories\\TdtIndex.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtCategories\\TdtIndex.cshtml",
+              "RelativeToolTip": "Tdtless10c\\Views\\TdtCategories\\TdtIndex.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:32:08.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TdtCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Controllers\\TdtCategoriesController.cs",
+              "RelativeDocumentMoniker": "Tdtless10c\\Controllers\\TdtCategoriesController.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Controllers\\TdtCategoriesController.cs",
+              "RelativeToolTip": "Tdtless10c\\Controllers\\TdtCategoriesController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:29:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model2210900134.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Models\\Model2210900134.edmx",
+              "RelativeDocumentMoniker": "Tdtless10c\\Models\\Model2210900134.edmx",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Models\\Model2210900134.edmx [Diagram1]",
+              "RelativeToolTip": "Tdtless10c\\Models\\Model2210900134.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-04T04:26:04.959Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Tdtless10c\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Tdtless10c\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:21:40.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TdtContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtHome\\TdtContact.cshtml",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\TdtHome\\TdtContact.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtHome\\TdtContact.cshtml",
+              "RelativeToolTip": "Tdtless10c\\Views\\TdtHome\\TdtContact.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:18:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TdtAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtHome\\TdtAbout.cshtml",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\TdtHome\\TdtAbout.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\TdtHome\\TdtAbout.cshtml",
+              "RelativeToolTip": "Tdtless10c\\Views\\TdtHome\\TdtAbout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:17:29.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TdtHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Controllers\\TdtHomeController.cs",
+              "RelativeDocumentMoniker": "Tdtless10c\\Controllers\\TdtHomeController.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Controllers\\TdtHomeController.cs",
+              "RelativeToolTip": "Tdtless10c\\Controllers\\TdtHomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:16:36.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_TdtLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeDocumentMoniker": "Tdtless10c\\Views\\Shared\\_TdtLayout.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdtless10c\\Tdtless10c\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeToolTip": "Tdtless10c\\Views\\Shared\\_TdtLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T04:15:46.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
